@@ -4,31 +4,11 @@
 // The main class from which we want to create different examples.
 public class Pet
 {
-    public string Name
-    {
-        get;
-        set;
-    }
-    public string Head
-    {
-        get;
-        set;
-    }
-    public string Limbs
-    {
-        get;
-        set;
-    }
-    public string Body
-    {
-        get;
-        set;
-    }
-    public string Legs
-    {
-        get;
-        set;
-    }
+    public string Name { get; set; }
+    public string Head { get; set; }
+    public string Limbs { get; set; }
+    public string Body { get; set; }
+    public string Legs { get; set; }
 }
 
 // این یک اینترفیس است که برای تعریف تمام مراحل مورد نیاز برای ایجاد یک کلاس استفاده می شود.
