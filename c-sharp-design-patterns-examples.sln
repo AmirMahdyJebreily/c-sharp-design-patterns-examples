@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singelton", "Singelton\Singelton.csproj", "{2D3EC171-D62E-46A3-8253-D29C7F2BA18D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{2587BCEC-A395-4529-BFA0-191A870D3341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{2587BCEC-A395-4529-BFA0-191A870D3341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{3A94F3CE-8C51-4EFD-94E9-B4746C7385F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2587BCEC-A395-4529-BFA0-191A870D3341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2587BCEC-A395-4529-BFA0-191A870D3341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2587BCEC-A395-4529-BFA0-191A870D3341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A94F3CE-8C51-4EFD-94E9-B4746C7385F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A94F3CE-8C51-4EFD-94E9-B4746C7385F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A94F3CE-8C51-4EFD-94E9-B4746C7385F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A94F3CE-8C51-4EFD-94E9-B4746C7385F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
